@@ -1,3 +1,5 @@
 $(document).ready(function(){
-    $('.modal').modal();
+  $('.carousel').carousel();
+  $('.modal').modal();
+  $('.parallax').parallax();
   });
